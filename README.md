@@ -1,5 +1,5 @@
 This is a Windows 11 version of the JDK_22 & Jextract_22 sample. \
-From : https://github.com/openjdk/jextract?tab=readme-ov-file \
+From : https://github.com/openjdk/jextract?tab=readme-ov-file 
 
 pre-requisites: \
 1.mingw64 - For compiling C code using "gcc" command \
