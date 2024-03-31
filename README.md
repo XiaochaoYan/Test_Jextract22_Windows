@@ -9,11 +9,11 @@ pre-requisites: \
 3.Jextract 22 - For generating java code from C header files \
 	check with command "jextract --version" \
 4.GNU make - For quick compile \
-	check with command "make --version" \
+	check with command "make --version" 
 
 *All Java / make /mingw64 need to add their perspective bin/*.exe file into System_Path of OperatingSystem to work properly. \
 **The working directory need to be added to System_Path to work properly. Use command "make set_ENV" to do so. \
 
 ToRun: \
 command "make all" \
-command "make run" \
+command "make run" 
